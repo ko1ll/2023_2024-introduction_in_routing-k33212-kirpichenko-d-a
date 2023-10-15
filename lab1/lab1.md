@@ -13,7 +13,35 @@ Date of finished: 16.10.2023
 
 
 
-#yaml файл с настройкой сети
+# Yaml файл с настройкой сети
 
 ![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/1.jpg)
+
 ![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/2.jpg)
+
+# Схема сети
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/9.jpg)
+
+# Настройка роутера
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/3.jpg)
+
+# Настройка sw3
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/4.jpg)
+
+# Настройка sw2
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/5.jpg)
+
+# Настройка sw1
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/6.jpg)
+
+# Проверка сети
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/7.jpg)
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/8.jpg)
+
