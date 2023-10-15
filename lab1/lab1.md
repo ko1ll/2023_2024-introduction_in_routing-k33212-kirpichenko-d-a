@@ -15,4 +15,5 @@ Date of finished: 16.10.2023
 
 #yaml файл с настройкой сети
 
-![](./photos/1.jpg)
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/1.jpg)
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/2.jpg)
