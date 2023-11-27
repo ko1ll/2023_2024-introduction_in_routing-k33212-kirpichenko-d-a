@@ -260,3 +260,7 @@ Date of finished: 27.11.2023
 Меняем имя роутера, ставим айпишник для интерфейса и включаем dhcp.
 
 
+## Таблица форвардов
+
+![](https://github.com/ko1ll/2023_2024-introduction_in_routing-k33212-kirpichenko-d-a/blob/main/photos/32.jpg)
+
