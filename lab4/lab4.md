@@ -4,12 +4,13 @@ Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introducti
 Year: 2023/2024  
 Group: K33212  
 Author: Kirpichenko Daniil Aleksandrovich
+
 Lab: Lab4
 Date of create: 10.12.2023  
 Date of finished: 11.12.2023  
 
 
-# Лабораторная работ №3 "Эмуляция распределенной корпоративной сети связи, настройка iBGP, организация L3VPN, VPLS"
+# Лабораторная работ №4 "Эмуляция распределенной корпоративной сети связи, настройка iBGP, организация L3VPN, VPLS"
 
 ### Цель работы
 Изучить протоколы BGP, MPLS и правила организации L3VPN и VPLS.
